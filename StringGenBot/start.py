@@ -24,7 +24,7 @@ Aɴ ᴏᴘᴇɴ sᴏᴜʀᴄᴇ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏ
                     InlineKeyboardButton(text="🙄 ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ 🙄", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("❣️ sᴏᴜʀᴄᴇ ❣️", url="t.me/huihuihuihuihuihuihuihuihuihh/2"),
+                    InlineKeyboardButton("❣️ sᴜᴘᴘᴏʀᴛ ❣️", url="t.me/scenario_support"),
                     InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=OWNER_ID)
                 ]
             ]
